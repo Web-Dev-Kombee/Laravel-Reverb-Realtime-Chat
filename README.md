@@ -87,7 +87,6 @@ Laravel Reverb brings real-time messaging to life. As Laravel’s official WebSo
 1. Clone the repository:
 ```bash
 git clone https://github.com/Web-Dev-Kombee/Laravel-Reverb-Realtime-Chat.git
-cd laravel-reverb-chat
 ```
 
 2. Install dependencies:
@@ -153,7 +152,3 @@ POST /fire/message - Send messages
 - Laravel Team
 - WebSocket Technology
 - Open Source Community
-
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
