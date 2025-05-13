@@ -152,3 +152,26 @@ POST /fire/message - Send messages
 - Laravel Team
 - WebSocket Technology
 - Open Source Community
+
+## 📜 **License**
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 👨‍💻 **Author**
+
+**Kombee Technologies**
+
+- 🌐 [Portfolio](https://github.com/kombee-technologies)
+- 💼 [LinkedIn](https://in.linkedin.com/company/kombee-global)
+- 🌍 [Website](https://www.kombee.com/)
+
+---
+
+<p align="center">
+  Built with ❤️ using Laravel
+</p>
+
+---
+
